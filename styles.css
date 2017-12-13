@@ -2,7 +2,7 @@
 body {
 	width: 100%;
 	max-width: 1024px;
-	margin: 0 auto;
+	margin: auto;
 	background-color: rgb(184, 220, 235);
 	font-size: 85%;
 }
@@ -10,7 +10,7 @@ body {
 
 main {
 	background-color: rgb(237, 240, 241);
-	
+
 }
 
 h1{
