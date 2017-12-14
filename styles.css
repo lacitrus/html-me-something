@@ -3,13 +3,12 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: auto;
-	background-color: rgb(184, 220, 235);
 	font-size: 85%;
 }
 
 
 main {
-	background-color: rgb(237, 240, 241);
+	background-color: rgb(170, 213, 228);
 
 }
 
@@ -29,8 +28,7 @@ p{
 
 img {
 	width: 100%;
-	max-width: 100%;
-}
+	}
 
 p.footer{
 text-align: center;
